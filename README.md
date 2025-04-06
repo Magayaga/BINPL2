@@ -1,6 +1,6 @@
 # `BINPL2`
 
-**BINPL2** is a low-level programming language conceived as a successor to an upgraded version of [**BINPL**](https://github.com/magayaga/BINPL). It is created, designed, and developed by @magayaga.
+**BINPL2** is a low-level programming language conceived as a successor to an version of [**BINPL**](https://github.com/magayaga/BINPL). It is created, designed, and developed by @magayaga. It was initially written in **C** programming language.
 
 ## Copyright
 
