@@ -1,0 +1,18 @@
+;; This is "Hello, World!" program using BINPL2
+;; Mixing Octa, Deci, Hexa, and Bina
+
+::BEGIN
+Octa        110      ;; 'H' in octal (72 decimal)
+Deci        101      ;; 'e' in decimal (101)
+Hexa        6C       ;; 'l' in hexadecimal (108)
+Bina        01101100 ;; 'l' in binary (108)
+Octa        157      ;; 'o' in octal (111)
+Hexa        2C       ;; ',' in hexadecimal (44)
+Deci        32       ;; space (32)
+Hexa        57       ;; 'W' in hexadecimal (87)
+Octa        157      ;; 'o' in octal (111)
+Deci        114      ;; 'r' in decimal (114)
+Hexa        6C       ;; 'l' in hexadecimal (108)
+Octa        144      ;; 'd' in octal (100)
+Hexa        21       ;; '!' in hexadecimal (33)
+::END
